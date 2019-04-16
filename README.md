@@ -6,7 +6,6 @@ This Script sets up the following "long press" hotkeys for Windows:
  - A -> Á
  - e -> é
  - E -> É
- - e -> É
  - i -> í
  - I -> Í
  - o -> ó
