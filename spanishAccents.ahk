@@ -6,7 +6,7 @@ lastPressed := ""
 lastTimer := ""
 
 $e::
-	handleHotkey("e", "e", "Ã©")
+	handleHotkey("e", "e", "é")
 	return
 
 $e UP::
@@ -14,7 +14,7 @@ $e UP::
 	return
 
 $+E::
-	handleHotkey("E", "E", "Ã‰")
+	handleHotkey("E", "E", "É")
 	return
 
 $+E UP::
@@ -22,7 +22,7 @@ $+E UP::
 	return
 
 $u::
-	handleHotkey("u", "u", "Ãº")
+	handleHotkey("u", "u", "ú")
 	return
 
 $u UP::
@@ -30,7 +30,7 @@ $u UP::
 	return
 
 $+U::
-	handleHotkey("U", "U", "Ãš")
+	handleHotkey("U", "U", "Ú")
 	return
 
 $+U UP::
@@ -38,7 +38,7 @@ $+U UP::
 	return
 
 $y::
-	handleHotkey("y", "y", "Ã¼")
+	handleHotkey("y", "y", "ü")
 	return
 
 $y UP::
@@ -46,7 +46,7 @@ $y UP::
 	return
 
 $+Y::
-	handleHotkey("Y", "Y", "Ãœ")
+	handleHotkey("Y", "Y", "Ü")
 	return
 
 $+Y UP::
@@ -54,7 +54,7 @@ $+Y UP::
 	return
 
 $i::
-	handleHotkey("i", "i", "Ã­")
+	handleHotkey("i", "i", "í")
 	return
 
 $i UP::
@@ -62,7 +62,7 @@ $i UP::
 	return
 
 $+I::
-	handleHotkey("I", "I", "Ã")
+	handleHotkey("I", "I", "Í")
 	return
 
 $+I UP::
@@ -70,7 +70,7 @@ $+I UP::
 	return
 
 $o::
-	handleHotkey("o", "o", "Ã³")
+	handleHotkey("o", "o", "ó")
 	return
 
 $o UP::
@@ -78,7 +78,7 @@ $o UP::
 	return
 
 $+O::
-	handleHotkey("O", "O", "Ã“")
+	handleHotkey("O", "O", "Ó")
 	return
 
 $+O UP::
@@ -86,7 +86,7 @@ $+O UP::
 	return
 
 $a::
-	handleHotkey("a", "a", "Ã¡")
+	handleHotkey("a", "a", "á")
 	return
 
 $a UP::
@@ -94,7 +94,7 @@ $a UP::
 	return
 
 $+A::
-	handleHotkey("A", "A", "Ã")
+	handleHotkey("A", "A", "Á")
 	return
 
 $+A UP::
@@ -102,7 +102,7 @@ $+A UP::
 	return
 
 $n::
-	handleHotkey("n", "n", "Ã±")
+	handleHotkey("n", "n", "ñ")
 	return
 
 $n UP::
@@ -110,7 +110,7 @@ $n UP::
 	return
 
 $+N::
-	handleHotkey("N", "N", "Ã‘")
+	handleHotkey("N", "N", "Ñ")
 	return
 
 $+N UP::
@@ -118,7 +118,7 @@ $+N UP::
 	return
 
 $+1::
-	handleHotkey("!", "{!}", "Â¡")
+	handleHotkey("!", "{!}", "¡")
 	return
 
 $+1 UP::
@@ -126,7 +126,7 @@ $+1 UP::
 	return
 
 $+/::
-	handleHotkey("?", "{?}", "Â¿")
+	handleHotkey("?", "{?}", "¿")
 	return
 
 $+/ UP::
